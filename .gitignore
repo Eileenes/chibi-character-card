@@ -1,0 +1,15 @@
+.DS_Store
+__MACOSX/
+*.pyc
+__pycache__/
+
+# Local reference images and generated artwork
+inputs/
+outputs/
+generated_images/
+
+# Local credentials and tool state
+.env
+.env.*
+!.env.example
+.venv/

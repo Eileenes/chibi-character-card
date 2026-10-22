@@ -1,0 +1,4 @@
+interface:
+  display_name: "Q版角色卡"
+  short_description: "真人、动物与已有设计统一生成保留辨识度的Q版三视图角色卡"
+  default_prompt: "请使用 $chibi-character-card，将我提供的图片制作成保留主体辨识度的Q版角色卡。"
